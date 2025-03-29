@@ -61,14 +61,6 @@ As Head of AI Engineering at MEDIAN Group, I focus on developing and implementin
 
 ---
 
-### 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrhein&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrhein&layout=compact&theme=radical)
-
----
-
 ### 💡 Current Interests
 
 - Generative AI and Large Language Models
